@@ -12,6 +12,4 @@ Finalmente, al ejecutar el programa se mostrará en pantalla todos los primos de
 
 
 Actividad 2: Generador de primos
-En el while comentado se encuentra un ciclo para ir introduciendo una cantidad de bits y obtener un primo.
-
-Al ejecutar el programa se mostrará en pantalla los números de 10 bits que son primos, el programa fue capaz de encontrar 75.
+En el while comentado se encuentra un ciclo para ir introduciendo una cantidad de bits y obtener un primo. // Al ejecutar el programa se mostrará en pantalla los números de 10 bits que son primos, el programa fue capaz de encontrar 75.
